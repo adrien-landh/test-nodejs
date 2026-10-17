@@ -17,5 +17,6 @@
     "react": "19.2.6",
     "react-dom": "19.2.6",
     "recharts": "^3.9.2"
-  }
+  },
+  "depiE2e": "two"
 }
